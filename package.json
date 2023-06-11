@@ -1,0 +1,14 @@
+{
+  "name": "tugas-week-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tugas1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
